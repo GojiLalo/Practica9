@@ -1,0 +1,7 @@
+
+<resources>
+    <string name="hello_world">From the Round world,\nHello, %1$s!</string>
+    <string name="app_name">Practica9</string>
+    <string name="initial_quote_text">¡Presiona el botón para una frase!</string>
+    <string name="get_quote_button_text">Obtener Frase</string>
+</resources>
