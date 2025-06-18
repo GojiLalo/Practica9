@@ -56,4 +56,5 @@ dependencies {
     debugImplementation(libs.ui.test.manifest)
     implementation(libs.wear)
     implementation (libs.appcompat)
+    implementation("androidx.constraintlayout:constraintlayout:2.2.1")
 }

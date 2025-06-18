@@ -44,7 +44,22 @@ class MainActivity : AppCompatActivity() {
         "Aquí está, Johnny! - El Resplandor",
         "Soy el rey del mundo! - Titanic",
         "Hasta la vista, baby. - Terminator 2: El Juicio Final",
-        "ET, teléfono, mi casa. - E.T., el extraterrestre"
+        "ET, teléfono, mi casa. - E.T., el extraterrestre",
+        "Yo veo gente muerta. - El sexto sentido",
+        "Carpe diem. Aprovechad el momento, chicos. - La sociedad de los poetas muertos",
+        "Nadie pone a Baby en un rincón. - Dirty Dancing",
+        "¿Por qué tan serio? - El caballero de la noche",
+        "Mi tesoro... - El Señor de los Anillos: Las dos torres",
+        "La verdad es que no puedes manejar la verdad. - Cuestión de honor",
+        "Corre, Forrest, corre. - Forrest Gump",
+        "Estoy caminando aquí. ¡Estoy caminando aquí! - Cowboy de medianoche",
+        "Esto es Esparta! - 300",
+        "Que comience los juegos del hambre. - Los juegos del hambre",
+        "¿Me hablas a mí? - Taxi Driver",
+        "Soy tu padre. - Star Wars: Episodio V - El Imperio contraataca",
+        "No hay lugar como el hogar. - El mago de Oz",
+        "¡Bond. James Bond. - Dr. No",
+        "El primer gobierno que debe temerle a su pueblo, no al revés. - V de Venganza"
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
